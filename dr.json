@@ -25,8 +25,8 @@
       "dataRecipientStatus":"SUSPENDED"
     },
     {
-      "dataRecipientId":"TPP6",
-      "dataRecipientStatus":"REVOKED"
+      "dataRecipientId":"OI1",
+      "dataRecipientStatus":"ACTIVE"
     },
     {
       "dataRecipientId":"TPP8",
