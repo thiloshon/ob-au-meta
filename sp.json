@@ -2,51 +2,51 @@
   "softwareProducts":[
     {
       "softwareProductId":"SP1",
-      "softwareProductStatus":"ACTIVE"
+      "softwareProductStatus":"Active"
     },
     {
       "softwareProductId":"SP2",
-      "softwareProductStatus":"INACTIVE"
+      "softwareProductStatus":"Inactive"
     },
     {
       "softwareProductId":"SP3",
-      "softwareProductStatus":"REMOVED"
+      "softwareProductStatus":"Removed"
     },
     {
       "softwareProductId":"SP4",
-      "softwareProductStatus":"ACTIVE"
+      "softwareProductStatus":"Active"
     },
     {
       "softwareProductId":"SP5",
-      "softwareProductStatus":"INACTIVE"
+      "softwareProductStatus":"Inactive"
     },
     {
       "softwareProductId":"SP6",
-      "softwareProductStatus":"REMOVED"
+      "softwareProductStatus":"Removed"
     },
     {
       "softwareProductId":"SP7",
-      "softwareProductStatus":"ACTIVE"
+      "softwareProductStatus":"Active"
     },
     {
       "softwareProductId":"SI1",
-      "softwareProductStatus":"ACTIVE"
+      "softwareProductStatus":"Active"
     },
     {
       "softwareProductId":"SP9",
-      "softwareProductStatus":"REMOVED"
+      "softwareProductStatus":"Removed"
     },
     {
       "softwareProductId":"SP10",
-      "softwareProductStatus":"ACTIVE"
+      "softwareProductStatus":"Active"
     },
     {
       "softwareProductId":"SP11",
-      "softwareProductStatus":"INACTIVE"
+      "softwareProductStatus":"Inactive"
     },
     {
       "softwareProductId":"SP12",
-      "softwareProductStatus":"REMOVED"
+      "softwareProductStatus":"Removed"
     }
   ]
 }

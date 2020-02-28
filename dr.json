@@ -2,51 +2,51 @@
   "dataRecipients":[
     {
       "dataRecipientId":"TPP1",
-      "dataRecipientStatus":"ACTIVE"
+      "dataRecipientStatus":"Active"
     },
     {
       "dataRecipientId":"TPP2",
-      "dataRecipientStatus":"SUSPENDED"
+      "dataRecipientStatus":"Suspended"
     },
     {
       "dataRecipientId":"TPP3",
-      "dataRecipientStatus":"REVOKED"
+      "dataRecipientStatus":"Revoked"
     },
     {
       "dataRecipientId":"TPP4",
-      "dataRecipientStatus":"SURRENDERED"
+      "dataRecipientStatus":"Surrendered"
     },
     {
       "dataRecipientId":"TPP5",
-      "dataRecipientStatus":"ACTIVE"
+      "dataRecipientStatus":"Active"
     },
     {
       "dataRecipientId":"TPP7",
-      "dataRecipientStatus":"SUSPENDED"
+      "dataRecipientStatus":"Suspended"
     },
     {
       "dataRecipientId":"OI1",
-      "dataRecipientStatus":"ACTIVE"
+      "dataRecipientStatus":"Active"
     },
     {
       "dataRecipientId":"TPP8",
-      "dataRecipientStatus":"SURRENDERED"
+      "dataRecipientStatus":"Surrendered"
     },
     {
       "dataRecipientId":"TPP9",
-      "dataRecipientStatus":"ACTIVE"
+      "dataRecipientStatus":"Active"
     },
     {
       "dataRecipientId":"TPP10",
-      "dataRecipientStatus":"SUSPENDED"
+      "dataRecipientStatus":"Suspended"
     },
     {
       "dataRecipientId":"TPP11",
-      "dataRecipientStatus":"REVOKED"
+      "dataRecipientStatus":"Revoked"
     },
     {
       "dataRecipientId":"TPP12",
-      "dataRecipientStatus":"SURRENDERED"
+      "dataRecipientStatus":"Surrendered"
     }
   ]
 }
